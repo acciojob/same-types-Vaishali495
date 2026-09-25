@@ -1,4 +1,4 @@
-function isSameType(value1, value2) {
+function isSameType(val1, val2) {
   //your js code here
 	// If both are NaN, they are considered the same type
   if (isNaN(val1) && isNaN(val2)) {
